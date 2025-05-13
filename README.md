@@ -114,7 +114,7 @@ export GPG_TTY=$(tty)
 ```bash
 gh sherpa cpr -i ANALISVENT-1234
 ```
-
+> 📌 Si el nombre de la rama termina en número o guión, la pipeline no funciona. 
 ---
 
 ## 🔄 Flujo de trabajo diario
